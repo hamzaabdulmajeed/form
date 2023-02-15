@@ -1,0 +1,43 @@
+div{
+    display: inline-block;
+    width:500px;
+    height: 500px;
+    padding: 10px;
+    margin: 10px;
+}
+#bg{
+    background-color: blueviolet;
+    height: 1000px;
+}
+#a{
+    margin-left: 350px;
+}
+.color{
+    background-color:blue;
+    margin-top:1px ;
+}    
+.colour{
+    background-color: white;
+    position: absolute;
+}
+#b{
+    font-size:70px;
+    margin-top: 50px;
+    margin-left: 100px;
+    color: white;
+}
+#d{
+    margin-left: 90px;
+}
+#e{
+    margin-left: 90px;
+    margin-top:20px ;    
+}
+.f{
+    
+    margin-left:100px ;
+ }
+.f:hover{
+    background-color: blue;
+    color: white;
+}
